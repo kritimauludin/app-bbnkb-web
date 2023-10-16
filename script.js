@@ -98,9 +98,10 @@ function calculateWithJenis(){
         }else{
             console.log('Input '+jenisKendaraan.val()+' not valid');
         }
-    } else {
-        alert('Isi harga beli kendaraan terlebih dahulu');
-    }
+    } 
+    //else {
+        //alert('Isi harga beli kendaraan terlebih dahulu');
+    //}
 }
 
 function addPajakTelat(){
